@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UserDirectoryApi\UserDirectoryApi.csproj" />
+    <ProjectReference Include="..\UserDirectoryApi\UserDirectory.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>
